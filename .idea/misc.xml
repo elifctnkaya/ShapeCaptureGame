@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-large/activity_finish.xml" value="0.190625" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-large/activity_game.xml" value="0.190625" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-large/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-small/activity_finish.xml" value="1.6" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-small/activity_game.xml" value="0.8800000000000001" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-small/activity_main.xml" value="1.7428571428571429" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-xlarge/activity_finish.xml" value="0.190625" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-xlarge/activity_game.xml" value="0.190625" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-xlarge/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-xxlarge/activity_finish.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-xxlarge/activity_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-xxlarge/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-xxxlarge/activity_finish.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-xxxlarge/activity_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout-xxxlarge/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout/activity_finish.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout/activity_game.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/ShapeCaptureGame/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
