@@ -23,6 +23,7 @@
         android:id="@+id/pacman"
         android:layout_width="100dp"
         android:layout_height="100dp"
+        android:background="@drawable/shape"
         app:layout_constraintBottom_toTopOf="@+id/textViewPlay"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -57,6 +58,7 @@
         android:layout_width="50dp"
         android:layout_height="50dp"
         app:srcCompat="@drawable/shape4"
+        android:background="@drawable/shape"
         tools:layout_editor_absoluteX="125dp"
         tools:layout_editor_absoluteY="106dp" />
 

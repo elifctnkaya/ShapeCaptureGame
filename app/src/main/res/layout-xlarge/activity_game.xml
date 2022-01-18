@@ -25,6 +25,7 @@
         android:layout_height="200dp"
         android:layout_marginTop="288dp"
         android:layout_marginBottom="323dp"
+        android:background="@drawable/shape"
         app:layout_constraintBottom_toTopOf="@+id/textViewPlay"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/shape1"
@@ -60,6 +61,7 @@
         android:layout_width="110dp"
         android:layout_height="110dp"
         app:srcCompat="@drawable/shape4"
+        android:background="@drawable/shape"
         tools:layout_editor_absoluteX="207dp"
         tools:layout_editor_absoluteY="265dp" />
 
